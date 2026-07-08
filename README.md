@@ -3,6 +3,9 @@
 Generic agent sandbox for misc R&D tasks — running arbitrary code, exploring
 repos, parsing data, writing snippets, and small coding tasks.
 
+This serves also as a reference implementation how to set up Python devcontainer with Pi coding
+agent and AivoCode.
+
 Uses [DevPod](https://devpod.sh/) to run a two-container stack:
 
 | Container | Purpose | Base Image |
